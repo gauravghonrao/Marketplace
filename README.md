@@ -1,6 +1,6 @@
 # Marketplace
 -->After running project :
-Please Enter your Item Name and Number of Items you would like to buy (press X if yould like to exit):
+"Please Enter your Item Name and Number of Items you would like to buy (press X if yould like to exit):"
 --> Enter space separated Item Name and Quantity example: A 3
 --> After Entering all data press 'X' to stop inserting.
 
