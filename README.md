@@ -1,5 +1,6 @@
 # Marketplace
 
+Guideline to run project:
 -->After running project :
 "Please Enter your Item Name and Number of Items you would like to buy (press X if yould like to exit):"
 --> Enter space separated Item Name and Quantity example: A 3
@@ -7,6 +8,7 @@
 
 -----------------------------------------------------------------------------------------------------
 -->Rate Chart:
+-----------------------------------------------------------------------------------------------------
 Marketplace Checkout Operations eg.DMART 
 Given Data:
 Item        Unit Price       Special Price
