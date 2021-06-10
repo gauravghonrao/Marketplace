@@ -6,6 +6,17 @@
 --> After Entering all data press 'X' to stop inserting.
 
 -----------------------------------------------------------------------------------------------------
+-->Rate Chart:
+Marketplace Checkout Operations eg.DMART 
+Given Data:
+Item        Unit Price       Special Price
+A              50               3 for 130
+B              30               2 for 45
+C              20               2 for 38 , 3 for 50
+D              15               5 if purchased with A
+E              5
+
+-----------------------------------------------------------------------------------------------------
 -->Sample Inputs and Outputs:
 -----------------------------------------------------------------------------------------------------
 Please Enter your Item Name and Number of Items you would like to buy (press X if yould like to exit):
